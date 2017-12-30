@@ -40,7 +40,7 @@ import uuid
 
 # This XML is the minimum needed to define one of our virtual switches
 # to the Amazon Echo
-
+# working with Alexa Amazon Echo (2nd generation)
 SETUP_XML = """<?xml version="1.0"?>
 <root>
   <device>
